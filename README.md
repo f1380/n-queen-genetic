@@ -14,4 +14,4 @@
 2. در ترمینال اجرا کنید:
 
 `bash
-python main.py
+python main.py 
